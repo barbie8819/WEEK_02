@@ -1,0 +1,40 @@
+package ECommercePlatform;
+
+public abstract class Product {
+    private String ProductId;
+    private String name;
+    private double price;
+
+    public Product(String productId, String name, double price) {
+        ProductId = productId;
+        this.name = name;
+        this.price = price;
+    }
+
+    public String getProductId() {
+        return ProductId;
+    }
+
+    public void setProductId(String productId) {
+        ProductId = productId;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public abstract double calculateDiscount();
+
+}
