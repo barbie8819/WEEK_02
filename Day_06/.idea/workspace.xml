@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0065e765-d831-4be6-8c9c-993bc91461cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeManagementSystem/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeManagementSystem/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Clothing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Electronics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Groceries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/ECommercePlatform/Taxable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/EmployeeManagementSystem/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/EmployeeManagementSystem/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/EmployeeManagementSystem/FullTimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/EmployeeManagementSystem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day_7/EmployeeManagementSystem/PartTimeEmployee.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
